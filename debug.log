@@ -41,3 +41,9 @@
 [1002/111627.771:ERROR:crash_report_database_win.cc(428)] unexpected header
 [1002/113127.771:ERROR:crash_report_database_win.cc(428)] unexpected header
 [1002/113549.979:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0913/213434.834:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0915/105447.326:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0916/210740.730:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0917/100642.067:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0918/214935.452:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0922/080639.878:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
